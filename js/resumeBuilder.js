@@ -14,7 +14,7 @@ var bio = {
 	[
 	"HTML","CSS","Javascript","Github","Wordpress"
 	],
-	"bioPic":"images/fry.jpg",
+	"bioPic":"https://scontent-vie1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/969108_556789464380144_521246161_n.jpg?oh=520b9ddc3a8a4f964f08d092b57d1b0d&oe=574A9656",
 	"display":function()
 	{	
 		var formattedHeaderName = HTMLheaderName.replace("%data%",bio.name);
